@@ -29,36 +29,21 @@
 
 ---
 
-## Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Anish-S-tech/car-repair-cost-prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anish-S-tech&repo=car-repair-cost-prediction&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Anish-S-tech/credit_card_fraud_detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anish-S-tech&repo=credit_card_fraud_detection&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  </a>
-</p>
-
----
 
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anish-S-tech&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anish-S-tech&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anish-S-tech&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Anish-S-tech&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish-S-tech&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anish-S-tech&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ##  Contribution Graph
