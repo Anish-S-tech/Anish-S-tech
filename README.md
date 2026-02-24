@@ -4,4 +4,4 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer;Machine%20Learning%20Developer;Backend%20Developer;DSA%20Enthusiast&center=true&width=500&height=50">
 </p>
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Anish-S-tech/Anish-S-tech/blob/output/github-contribution-grid-snake.svg)
