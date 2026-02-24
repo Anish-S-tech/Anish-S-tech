@@ -72,14 +72,12 @@
 
 ##  Connect With Me
 
+
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/anish-s-7b2b1131a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://leetcode.com/YOUR_ID">
-    <img src="https://skillicons.dev/icons?i=leetcode" />
+  <a href="mailto:anishanish19732@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
