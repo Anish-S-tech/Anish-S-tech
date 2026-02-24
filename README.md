@@ -1,14 +1,17 @@
 <!-- ===== HEADER ===== -->
 <h1 align="center">Hi, I'm Anish S</h1>
 
+<h3 align="center">
+  AI Engineer | Machine Learning Developer | Backend Enthusiast
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer;Machine%20Learning%20Developer;Backend%20Developer;DSA%20Enthusiast&center=true&width=500&height=50&color=00F7FF">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building%20AI%20Systems;DSA%20Enthusiast;Backend%20Developer;Lifelong%20Learner&center=true&width=450&height=45&color=00F7FF">
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anish-S-tech&color=blueviolet&style=flat-square" />
 </p>
-
 ---
 
 ##  About Me
