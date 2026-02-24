@@ -1,17 +1,6 @@
-I'm an artificial intelligence and data science student at Sri Eshwar College of Engineering with a deep interest in competitive programming, Machine learning and Data science.
-I'm continuously exploring the realms of artificial intelligence and Data Science and building projects on them. I'm actively indulged to evolve my technical skills to the next level day by day.
+<h1 align="center">Hi 👋, I'm Anish S</h1>
 
-Skills : C , C++ , Python , MySQL , Flask , Pandas , Numpy , Matplotlib , Scikit-Learn
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer;Machine%20Learning%20Developer;Backend%20Developer;DSA%20Enthusiast&center=true&width=500&height=50">
+</p>
 
-Competitive programming profiles:
-
-1. Leetcode - solved 373 problems (1443 rating)
-2. Codechef - solved 791 problems (1121 rating)
-3. Hackerrank - 4 stars each in C, C++, Python, SQL
-
-
-Connect with me on 
-
-1. LinkedIn  - https://www.linkedin.com/in/anish-s-7b2b1131a/
-2. Email     - anishanish19732@gmail.com
-   
