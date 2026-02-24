@@ -32,10 +32,10 @@
 ##  Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Anish-S-tech/Vehicle-Damage-Detection">
+  <a href="https://github.com/Anish-S-tech/car-repair-cost-prediction">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anish-S-tech&repo=car-repair-cost-prediction&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Anish-S-tech/Credit-Card-Fraud-Detection">
+  <a href="https://github.com/Anish-S-tech/credit_card_fraud_detection">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anish-S-tech&repo=credit_card_fraud_detection&theme=tokyonight" />
   </a>
 </p>
