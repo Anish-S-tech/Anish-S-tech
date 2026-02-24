@@ -24,6 +24,31 @@
 
 ---
 
+
+## 🏆 Competitive Programming
+
+<p align="center">
+  <a href="https://leetcode.com/YOUR_ID">
+    <img src="https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  
+  <a href="https://codeforces.com/profile/anishanish19732">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  
+  <a href="https://www.codechef.com/users/anish_1718">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  
+  <a href="https://www.geeksforgeeks.org/user/anish_1718">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  
+  <a href="https://www.hackerrank.com/anishanish19732">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+  </a>
+</p>
+
 ##  Tech Stack
 
 <p align="center">
