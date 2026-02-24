@@ -29,14 +29,17 @@
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
 <p align="center">
   <a href="https://github.com/Anish-S-tech/car-repair-cost-prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anish-S-tech&repo=car-repair-cost-prediction&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anish-S-tech&repo=car-repair-cost-prediction&theme=tokyonight&hide_border=true&cache_seconds=1800" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/Anish-S-tech/credit_card_fraud_detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anish-S-tech&repo=credit_card_fraud_detection&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anish-S-tech&repo=credit_card_fraud_detection&theme=tokyonight&hide_border=true&cache_seconds=1800" />
   </a>
 </p>
 
