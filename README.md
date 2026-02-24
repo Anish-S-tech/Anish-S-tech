@@ -33,10 +33,10 @@
 
 <p align="center">
   <a href="https://github.com/Anish-S-tech/Vehicle-Damage-Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anish-S-tech&repo=Vehicle-Damage-Detection&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anish-S-tech&repo=car-repair-cost-prediction&theme=tokyonight" />
   </a>
   <a href="https://github.com/Anish-S-tech/Credit-Card-Fraud-Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anish-S-tech&repo=Credit-Card-Fraud-Detection&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anish-S-tech&repo=credit_card_fraud_detection&theme=tokyonight" />
   </a>
 </p>
 
